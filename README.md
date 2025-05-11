@@ -93,3 +93,7 @@ Performed:
    ```bash
    git clone https://github.com/your-username/co2-emission-prediction.git
    cd co2-emission-prediction
+## ✅pytorch model Output
+<img src="https://github.com/goldstring/co2_emission_prediction_using_machine_learning_regression/blob/main/test_output.png?raw=true" />
+
+<img src="https://github.com/goldstring/co2_emission_prediction_using_machine_learning_regression/blob/main/train_output.png?raw=true" />
